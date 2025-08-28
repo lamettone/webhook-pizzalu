@@ -5,9 +5,9 @@ const PORT = process.env.PORT || 3000;
 
 // Credenziali GloriaFood aggiornate
 const GLORIAFOOD_CONFIG = {
-    referenceToken: 'dRsFeMNHZL7FSZfcSusSAn5bffSKCYnMs',
-    localKey: 'B9pGqO0Qhvv5rEy3x',
-    serverKey: 'ELQTTkujf6deGY3AekkDg81mRIEoJi0',
+    referenceToken: 'tBeZlepAJq28Ratz5OjJucLMxS2YTsNNN',
+    localKey: 'B9pGot0GJtw5rrEy3x',
+    serverKey: 'sgOJB7BFApBvXeBJ3T1X2BljY3lK4zZRB',
     email: 'info.fantasygadgets@gmail.com'
 };
 
